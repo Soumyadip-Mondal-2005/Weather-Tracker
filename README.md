@@ -1,4 +1,6 @@
-🌦️ Weather Tracker
+🌦️ Weather Tracker:
+
+
 A simple and responsive weather tracking app built using HTML, CSS, and JavaScript. It fetches real-time weather data from the OpenWeatherMap API and displays it with dynamic icons and styling.
 
 🚀 Features
