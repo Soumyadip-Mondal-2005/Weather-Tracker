@@ -19,7 +19,8 @@ A simple and responsive weather tracking app built using HTML, CSS, and JavaScri
 📦 Installation
 - Clone the repository:
 git clone https://github.com/Soumyadip-Mondal-2005/Weather-Tracker.git
-- Open the folder and double-click index.html to launch the app in your browser.
+
+Open the folder and double-click index.html to launch the app in your browser.
 No build tools or dependencies required — just open and go!
 
 
@@ -27,22 +28,6 @@ No build tools or dependencies required — just open and go!
 - Sign up at OpenWeatherMap and get your API key.
 - In script.js, replace the placeholder with your key:
 const apiKey = "your_api_key_here";
-
-
-
-📁 Folder Structure
-
-Weather-Tracker/
-├── index.html              # Main HTML file
-├── style.css               # CSS styling
-├── script.js               # JavaScript logic and API calls
-├── images/                 # Weather icons
-│   ├── clouds.png
-│   ├── mist.png
-│   ├── rain.png
-│   ├── snow.png
-│   ├── clear.png
-│   └── drizzle.png
 
 
 
