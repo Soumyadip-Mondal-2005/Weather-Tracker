@@ -31,17 +31,18 @@ const apiKey = "your_api_key_here";
 
 
 📁 Folder Structure
+
 Weather-Tracker/
-├── index.html
-├── style.css
-├── script.js
-├── images/
+├── index.html              # Main HTML file
+├── style.css               # CSS styling
+├── script.js               # JavaScript logic and API calls
+├── images/                 # Weather icons
 │   ├── clouds.png
-│   ├── clear.png
-│   ├── drizzle.png
 │   ├── mist.png
 │   ├── rain.png
-│   └── snow.png
+│   ├── snow.png
+│   ├── clear.png
+│   └── drizzle.png
 
 
 
